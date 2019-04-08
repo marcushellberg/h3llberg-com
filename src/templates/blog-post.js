@@ -10,6 +10,18 @@ import { TagList } from '../components/tag-list/tag-list'
 import { kebabCase } from '../utils/string-utils'
 
 class BlogPostTemplate extends React.Component {
+  constructor(...args) {
+    super(...args)
+    this.ref = React.createRef()
+  }
+
+  componentDidMount() {
+    const commentoScript = document.createElement('script')
+    commentoScript.src = 'https://cdn.commento.io/js/commento.js'
+    commentoScript.setAttribute('async', true)
+    this.ref.current.appendChild(commentoScript)
+  }
+
   render() {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
@@ -56,11 +68,26 @@ class BlogPostTemplate extends React.Component {
           dangerouslySetInnerHTML={{ __html: post.html }}
         />
 
-        {backLink ? <Link to={backLink}>‹ Back to {category}</Link> : ''}
+        {backLink ? (
+          <Link to={backLink} className="back-link">
+            ‹ Back to {category}
+          </Link>
+        ) : (
+          ''
+        )}
 
         <TagList tags={tags} />
-
         <Bio />
+
+        <div ref={this.ref} />
+        {category !== 'Page' ? (
+          <>
+            <h4>Comments</h4>
+            <div id="commento" />
+          </>
+        ) : (
+          ''
+        )}
 
         {/* <ul
           style={{

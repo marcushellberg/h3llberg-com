@@ -25,3 +25,17 @@
 .post-content ol li {
   margin-bottom: 0;
 }
+
+a.back-link {
+  padding: 8px 24px;
+  font-family: Montserrat, sans-serif;
+  background: #1a94e6;
+  color: #fff;
+  border-radius: 1000px;
+  text-transform: uppercase;
+  box-shadow: none;
+}
+
+.commento-footer {
+  display: none;
+}
