@@ -16,10 +16,12 @@ class BlogPostTemplate extends React.Component {
   }
 
   componentDidMount() {
-    const commentoScript = document.createElement('script')
-    commentoScript.src = 'https://cdn.commento.io/js/commento.js'
-    commentoScript.setAttribute('async', true)
-    this.ref.current.appendChild(commentoScript)
+    setTimeout(() => {
+      const commentoScript = document.createElement('script')
+      commentoScript.src = 'https://cdn.commento.io/js/commento.js'
+      commentoScript.setAttribute('async', true)
+      this.ref.current.appendChild(commentoScript)
+    }, 500)
   }
 
   render() {
