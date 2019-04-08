@@ -1,0 +1,8 @@
+.social a {
+  box-shadow: none;
+  margin-left: 12px;
+}
+
+.social a:nth-child(1) {
+  margin-left: 0;
+}

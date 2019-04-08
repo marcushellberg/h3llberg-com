@@ -1,0 +1,21 @@
+.post-preview {
+  color: #000;
+}
+.post-preview h3 {
+  font-family: Montserrat, sans-serif;
+  margin-bottom: 1rem;
+}
+
+.image {
+  height: 300px;
+}
+
+.excerpt {
+  margin-top: 1em;
+}
+
+@media (max-width: 500px) {
+  .image {
+    height: 200px;
+  }
+}

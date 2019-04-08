@@ -1,0 +1,27 @@
+.post-content figcaption {
+  text-align: center;
+  font-style: italic;
+  color: gray;
+}
+
+.post-content .full-width .gatsby-resp-image-wrapper {
+  position: relative;
+  max-width: 100vw;
+  width: 100vw;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw !important;
+  margin-right: -50vw !important;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.post-content ul,
+.post-content ol {
+  margin-left: 1.75em;
+}
+
+.post-content ul li,
+.post-content ol li {
+  margin-bottom: 0;
+}

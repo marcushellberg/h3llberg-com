@@ -1,0 +1,58 @@
+import React from 'react'
+import Layout from '../components/layout'
+import { graphql } from 'gatsby'
+import { kebabCase } from '../utils/string-utils'
+import { Card } from '../components/card/card'
+import { CardGrid } from '../components/card-grid/card-grid'
+const GalleryPage = ({ pageContext, data }) => {
+  return (
+    <Layout
+      pageTitle={pageContext.category.name}
+      headerImage={data.headerImage.childImageSharp.fluid}
+    >
+      <p>{pageContext.category.description}</p>
+      <CardGrid>
+        {data.allCategoriesJson.edges[0].node.subCategories.map(sub => {
+          return (
+            <Card
+              key={sub.name}
+              title={sub.name}
+              image={sub.image.childImageSharp.fluid}
+              link={pageContext.slug + kebabCase(sub.name)}
+            />
+          )
+        })}
+      </CardGrid>
+    </Layout>
+  )
+}
+
+export default GalleryPage
+
+export const pageQuery = graphql`
+  query($image: String!, $categoryName: String!) {
+    headerImage: file(relativePath: { eq: $image }) {
+      childImageSharp {
+        fluid(maxWidth: 1600) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
+    allCategoriesJson(filter: { name: { eq: $categoryName } }) {
+      edges {
+        node {
+          subCategories {
+            name
+            image {
+              childImageSharp {
+                fluid(maxWidth: 300) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+`

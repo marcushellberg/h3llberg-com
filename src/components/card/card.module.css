@@ -1,0 +1,25 @@
+.card {
+  overflow: hidden;
+}
+
+.cover-image {
+  height: 200px;
+}
+
+.articleInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 12px;
+}
+.articleInfo h3 {
+  font-size: 1em;
+  margin: 12px 0;
+}
+
+.articleInfo h3 a {
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  box-shadow: none;
+}
