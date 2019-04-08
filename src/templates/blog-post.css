@@ -36,6 +36,10 @@ a.back-link {
   box-shadow: none;
 }
 
+#commento a {
+  box-shadow: none;
+}
+
 .commento-footer {
   display: none;
 }
