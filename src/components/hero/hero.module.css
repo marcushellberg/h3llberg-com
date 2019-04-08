@@ -45,4 +45,7 @@
   .headerImage {
     height: 40vh;
   }
+  .titles h1 {
+    font-size: 1.8em;
+  }
 }
