@@ -8,12 +8,14 @@ class BlogIndex extends React.Component {
   render() {
     const { data } = this.props
     const siteDescription = data.site.siteMetadata.description
+    const siteTitle = data.site.siteMetadata.title
     const posts = data.allMarkdownRemark.edges
 
     return (
       <Layout location={this.props.location} pageTitle={siteDescription}>
         <SEO
-          title={siteDescription}
+          title={siteTitle}
+          description={siteDescription}
           keywords={[`hiking`, `backpacking`, `ultralight`, `adventure`]}
         />
 
@@ -35,6 +37,7 @@ export const pageQuery = graphql`
   query {
     site {
       siteMetadata {
+        title
         description
       }
     }
