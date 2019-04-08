@@ -1,5 +1,6 @@
 import React from 'react'
 import Layout from '../components/layout'
+import SEO from '../components/seo'
 import { PostPreview } from '../components/post-preview/post-preview'
 import { graphql } from 'gatsby'
 
@@ -10,6 +11,11 @@ const Listing = ({ pageContext, data }) => {
       pageTitle={pageContext.category.name}
       headerImage={data.headerImage.childImageSharp.fluid}
     >
+      <SEO
+        title={pageContext.category.name}
+        description={pageContext.category.description}
+        image={data.headerImage.childImageSharp.fixed}
+      />
       {pageContext.category.description ? (
         <p>{pageContext.category.description}</p>
       ) : (
@@ -64,6 +70,9 @@ export const pageQuery = graphql`
       childImageSharp {
         fluid(maxWidth: 1600) {
           ...GatsbyImageSharpFluid
+        }
+        fixed(width: 1200, height: 630) {
+          ...GatsbyImageSharpFixed
         }
       }
     }

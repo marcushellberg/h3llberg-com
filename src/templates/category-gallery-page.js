@@ -4,12 +4,18 @@ import { graphql } from 'gatsby'
 import { kebabCase } from '../utils/string-utils'
 import { Card } from '../components/card/card'
 import { CardGrid } from '../components/card-grid/card-grid'
+import SEO from '../components/seo'
 const GalleryPage = ({ pageContext, data }) => {
   return (
     <Layout
       pageTitle={pageContext.category.name}
       headerImage={data.headerImage.childImageSharp.fluid}
     >
+      <SEO
+        title={pageContext.category.name}
+        description={pageContext.category.description}
+        image={data.headerImage.childImageSharp.fixed}
+      />
       <p>{pageContext.category.description}</p>
       <CardGrid>
         {data.allCategoriesJson.edges[0].node.subCategories.map(sub => {
@@ -35,6 +41,9 @@ export const pageQuery = graphql`
       childImageSharp {
         fluid(maxWidth: 1600) {
           ...GatsbyImageSharpFluid
+        }
+        fixed(width: 1200, height: 630) {
+          ...GatsbyImageSharpFixed
         }
       }
     }
