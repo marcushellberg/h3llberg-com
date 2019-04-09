@@ -1,5 +1,5 @@
 ---
-title: Watson Lake to Relay Peak
+title: Relay Peak to Marlette Campground
 date: '2018-07-29'
 description: 'Tahoe Rim Trail day 3: Smoky weather, easy trail.'
 image: './lichen.jpg'
