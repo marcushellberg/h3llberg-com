@@ -5,8 +5,8 @@ import styles from './tag-list.module.css'
 
 const TagList = ({ tags }) => {
   return tags && tags.length > 0 ? (
-    <>
-      <h4>Tags</h4>
+    <div className={styles.wrapper}>
+      <h4 className={styles.heading}>Tags</h4>
       <div className={styles.tagList}>
         {tags.map(tag => (
           <Link to={kebabCase(`tags/${tag}`)} className={styles.tag} key={tag}>
@@ -14,7 +14,7 @@ const TagList = ({ tags }) => {
           </Link>
         ))}
       </div>
-    </>
+    </div>
   ) : (
     ''
   )

@@ -19,15 +19,14 @@ function Bio() {
         const { author, social } = data.site.siteMetadata
         return (
           <>
-            <hr
-              style={{
-                marginTop: rhythm(3),
-                marginBottom: rhythm(1),
-              }}
-            />
             <div
               style={{
                 display: `flex`,
+                padding: `${rhythm(0.5)} 0`,
+                margin: `${rhythm(1)} 0`,
+                borderTop: '1px solid #ccc',
+                borderBottom: '1px solid #ccc',
+                alignItems: 'center',
               }}
             >
               <Image
@@ -43,7 +42,7 @@ function Bio() {
                   borderRadius: `50%`,
                 }}
               />
-              <p>
+              <p style={{ margin: 0 }}>
                 <strong>{author}</strong> lives in California and enjoys
                 spending time out in the wilderness.
                 {` `}
@@ -58,11 +57,6 @@ function Bio() {
                 .
               </p>
             </div>
-            <hr
-              style={{
-                marginBottom: rhythm(3),
-              }}
-            />
           </>
         )
       }}

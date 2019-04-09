@@ -3,7 +3,7 @@ title: Tahoe City to Watson Lake
 date: '2018-07-26'
 image: './trt-blaze.jpg'
 category: Tahoe Rim Trail 2018
-description: 'TRT day 1: Getting to the trailhead was a pain, but once I got on the trail I quickly forgot all the hassle.'
+description: 'Tahoe Rim Trail day 1: Getting to the trailhead was a pain, but once I got on the trail I quickly forgot all the hassle.'
 tags: ['Trip reports', 'Hiking']
 ---
 

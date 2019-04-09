@@ -1,7 +1,7 @@
 ---
 title: Watson Lake to Relay Peak
 date: '2018-07-28'
-description:
+description: 'Tahoe Rim Trail day 2: A long and hot climb combined with the longest dry stretch on the trail'
 image: './sunset-at-relay-peak-trt.jpg'
 category: Tahoe Rim Trail 2018
 tags: ['Trip reports', 'Hiking']

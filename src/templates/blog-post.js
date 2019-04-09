@@ -77,10 +77,8 @@ class BlogPostTemplate extends React.Component {
         ) : (
           ''
         )}
-
-        <TagList tags={tags} />
         <Bio />
-
+        <TagList tags={tags} />
         <div ref={this.ref} />
         {category !== 'Page' ? (
           <>
