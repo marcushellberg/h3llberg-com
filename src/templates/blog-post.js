@@ -16,12 +16,31 @@ class BlogPostTemplate extends React.Component {
   }
 
   componentDidMount() {
-    setTimeout(() => {
+    const loadCommento = () => {
       const commentoScript = document.createElement('script')
       commentoScript.src = 'https://cdn.commento.io/js/commento.js'
       commentoScript.setAttribute('async', true)
       this.ref.current.appendChild(commentoScript)
-    }, 500)
+    }
+
+    if ('IntersectionObserver' in window) {
+      const observer = new IntersectionObserver(
+        entries => {
+          entries.forEach(entry => {
+            if (entry.isIntersecting) {
+              loadCommento()
+              observer.disconnect()
+            }
+          })
+        },
+        {
+          rootMargin: '0px 0px 300px 0px',
+        }
+      )
+      observer.observe(document.querySelector('#comments'))
+    } else {
+      setTimeout(loadCommento, 1000)
+    }
   }
 
   render() {
@@ -79,7 +98,7 @@ class BlogPostTemplate extends React.Component {
         )}
         <Bio />
         <TagList tags={tags} />
-        <div ref={this.ref} />
+        <div ref={this.ref} id="comments" />
         {category !== 'Page' ? (
           <>
             <h4>Comments</h4>
