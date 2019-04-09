@@ -77,7 +77,7 @@ Belly full, I headed back to my tent to sleep. This was clearly not a plan share
 
 ## Stats
 
-13 miles +3,000ft, -1600ft total elevation change.
+13 miles +3,000ft, -1,600ft total elevation change.
 
 ![TRT Day 1 trail profile](profile.png)
 

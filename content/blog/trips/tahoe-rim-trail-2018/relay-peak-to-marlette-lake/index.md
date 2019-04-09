@@ -91,3 +91,11 @@ The water pump at Marlette is somewhat of a pain to operate on your own. It can 
 A few more hikers showed up, but the campground was surprisingly empty being the only place you're allowed to camp at for miles.
 
 I spent a few hours talking to another hiker before turning in for the night.
+
+## Stats
+
+19 miles +2,250ft, -4,329ft total elevation change.
+
+![TRT Day 1 trail profile](profile.png)
+
+You can find the routes for all days on [Caltopo](https://caltopo.com/m/HJ0L).
