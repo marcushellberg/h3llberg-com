@@ -96,6 +96,6 @@ I spent a few hours talking to another hiker before turning in for the night.
 
 19 miles +2,250ft, -4,329ft total elevation change.
 
-![TRT Day 1 trail profile](profile.png)
+![TRT Day 3 trail profile](profile.png)
 
 You can find the routes for all days on [Caltopo](https://caltopo.com/m/HJ0L).
