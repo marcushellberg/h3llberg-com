@@ -33,8 +33,8 @@ After climbing out of the forest near the campground, the trail passes through b
 The morning was mostly cruising downhill. As I turned off the main trail to the Spooner Lake trail, the path dropped down into a lush aspen forest with thick undergrowth. All of a sudden it was as if I had been transported from the Sierra Nevada back to a Finnish summer landscape. The air was moist, and the bugs were there. Just like home.
 
 <figure>
-  <img src="aspen-grove-at-spooner-lake.jpg" alt="A cool rock that looks like a whale.">
-  <figcaption>A cool rock that looks like a whale</figcaption>
+  <img src="aspen-grove-at-spooner-lake.jpg" alt="Aspen grove at Spooner Lake.">
+  <figcaption>Aspen grove at Spooner Lake</figcaption>
 </figure>
 
 Since I had plenty of time, I didn't go down and filter water at the near end of Spooner. Instead, I decided to walk to the campground on the other side to fill up on water and use the fancy toilets there.
