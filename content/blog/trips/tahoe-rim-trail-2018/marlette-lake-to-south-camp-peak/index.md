@@ -39,6 +39,8 @@ The morning was mostly cruising downhill. As I turned off the main trail to the 
 
 Since I had plenty of time, I didn't go down and filter water at the near end of Spooner. Instead, I decided to walk to the campground on the other side to fill up on water and use the fancy toilets there.
 
+It's funny how after just a few days out on trail, you are all of a sudden that smelly weird guy sitting alone at the outskirts of the campground. Smelly, but happy.
+
 I took the opportunity to rinse off all my clothes once again and let them dry in the sun as I ate my lunch. I met up with another TRT hiker who was heading the same way as I was. We chatted for another hour or so while charging our phones.
 
 > There are outlets in the middle of the concrete "Stonehenge" structure at the campground. They're not very obvious at first. Just look for the poles at the center and near the fire pit.
