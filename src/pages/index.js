@@ -14,7 +14,7 @@ class BlogIndex extends React.Component {
     return (
       <Layout location={this.props.location} pageTitle={siteDescription}>
         <SEO
-          title={siteTitle}
+          title="Outdoor Adventure – ultralight backpacking, fly fishing, bikepacking"
           description={siteDescription}
           keywords={[`hiking`, `backpacking`, `ultralight`, `adventure`]}
         />
