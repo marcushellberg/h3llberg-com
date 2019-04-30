@@ -9,7 +9,7 @@ const TagList = ({ tags }) => {
       <h4 className={styles.heading}>Tags</h4>
       <div className={styles.tagList}>
         {tags.map(tag => (
-          <Link to={kebabCase(`tags/${tag}`)} className={styles.tag} key={tag}>
+          <Link to={kebabCase(`/tags/${tag}`)} className={styles.tag} key={tag}>
             {tag}
           </Link>
         ))}
