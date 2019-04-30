@@ -62,11 +62,31 @@ exports.createPages = async ({ graphql, actions }) => {
       })
     })
   }
-  // TODO: split into blog/category
-  const allPosts = result.data.allMarkdownRemark.edges
-  createPages(allPosts)
-
   const categories = result.data.allCategoriesJson.edges.map(edge => edge.node)
+  const allPosts = result.data.allMarkdownRemark.edges
+
+  const postsByCategory = new Map()
+  const flatCategories = categories.flatMap(c => [c, ...c.subCategories])
+  allPosts.forEach(post => {
+    const category =
+      flatCategories.find(c => c.name === post.node.frontmatter.category) ||
+      post.node.frontmatter.category
+    if (!category) throw new Error(`Category ${post.category} not found`)
+
+    const posts = postsByCategory.get(category) || []
+    posts.push(post)
+    postsByCategory.set(category, posts)
+  })
+
+  postsByCategory.forEach((posts, category) => {
+    if (category.order && category.order === 'ASC') {
+      posts.sort(
+        (p1, p2) => p1.node.frontmatter.date > p2.node.frontmatter.date
+      )
+    }
+    createPages(posts)
+  })
+
   const categoryGalleryPage = path.resolve(
     `./src/templates/category-gallery-page.js`
   )
