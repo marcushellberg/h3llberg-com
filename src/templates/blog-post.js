@@ -94,7 +94,7 @@ class BlogPostTemplate extends React.Component {
           style={{
             display: `flex`,
             flexWrap: `wrap`,
-            justifyContent: `space-between`,
+            justifyContent: `center`,
             listStyle: `none`,
             padding: 0,
             margin: `80px 0`,
@@ -117,9 +117,16 @@ class BlogPostTemplate extends React.Component {
         </ul>
 
         {backLink ? (
-          <Link to={backLink} className="back-link">
-            ‹ Back to {category}
-          </Link>
+          <div
+            style={{
+              display: `flex`,
+              justifyContent: `center`,
+            }}
+          >
+            <Link to={backLink} className="back-link">
+              ‹ Back to {category}
+            </Link>
+          </div>
         ) : (
           ''
         )}
