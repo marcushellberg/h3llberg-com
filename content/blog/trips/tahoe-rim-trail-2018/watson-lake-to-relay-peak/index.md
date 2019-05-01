@@ -60,8 +60,6 @@ When I finally reached Relay Peak, I was really done with climbing and wanted to
   <figcaption>Tent setup near Relay Peak.</figcaption>
 </figure>
 
-When I finally reached Relay Peak, I was really done with climbing and wanted to set up camp so I could get some food. There were a few spots right on the trail, but I wanted to be a bit off the trail, and a bit shielded from the wind, so I ended up pitching my tent in an exactly Duplex-sized opening between the trees.
-
 <figure class="full-width">
   <img src="inside-the-tent-at-relay-peak-trt.jpg" alt="Nice views from inside the tent near Relay Peak.">
   <figcaption>Nice views from inside the tent near Relay Peak.</figcaption>
