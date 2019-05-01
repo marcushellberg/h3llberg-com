@@ -79,7 +79,7 @@ As I started descending towards the campground, the dry forest gave way to meado
   <figcaption>Flower field just before the campground</figcaption>
 </figure>
 
-I got to camp before anyone else, so I was able to score a sweet spot with a picknick table.
+I got to camp before anyone else, so I was able to score a sweet spot with a picnic table.
 
 <figure>
   <img src="marlette-campground.jpg" alt="Tent set up at Marlette Campground.">
