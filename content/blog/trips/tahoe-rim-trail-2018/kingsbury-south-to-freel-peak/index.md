@@ -11,10 +11,22 @@ Day 6. After a two week break from the trail due to work, it was time to continu
 
 We got an early start from San Jose, stopped at a classic diner for a pancake breakfast, and got up to Tahoe City a bit after nine. We planned to leave the car at the parking lot near the Tahoe City Transit Center and take the bus down to Kingsbury South Trailhead. The West shore bus line only ran on weekends in August, so we wanted to take the bus on the first day and then hike back to the car. That way, we didn't need to hurry and finish by a specific day to catch a bus.
 
+## Gear changes
+
+During my time off the trail, I decided to make a few changes to [my gear list](/trips/tahoe-rim-trail-2018/overview-and-gear-list/).
+
+The first change was to my sleep system. The Therm-a-rest XTherm I had started out with was way too hot for summer, it was like sleeping on lava. I swapped it out for a lighter XLite. I also replaced my sleeping bag with an Enlightened Equipment Revelation quilt for more flexibility.
+
+I got Superfeet Carbon insoles for my shoes. Walking on the loose sand on the Eastern stretch tired out the bottoms of my feet, so having a bit more rigidity felt like a good idea.
+
+Finally, I swapped out my Gerber pocket knife for a small Victorinox that weighed about the same but had scissors. Scissors make things like cutting Leukotape so much easier.
+
 <figure>
   <img src="kingsbury-trailhead.jpg" alt="Ready to get back on the trail again!">
   <figcaption>Ready to get back on the trail again!</figcaption>
 </figure>
+
+## Back on the trail
 
 Right out of the gate, the trail started with a steady climb. In fact, the whole day was going to be more or less a non-stop climb.
 

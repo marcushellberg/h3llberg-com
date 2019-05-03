@@ -40,6 +40,7 @@ I wanted to go light, but still make sure I had everything I needed to stay safe
 - MSR Pocket rocket 2
 - Primus long-handled spoon
 - Bic mini lighter
+- Gerber paraframe pocket knife
 - Zpacks bear bag
 - Zpacks rock bag + line and carabiner
 - Katadyn BeFree filter + 3 liter hyrdopak soft flask
