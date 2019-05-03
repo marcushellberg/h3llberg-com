@@ -1,5 +1,5 @@
 ---
-title: Marlette Campground to South Camp Peak
+title: 'TRT: Marlette Campground to South Camp Peak'
 date: '2018-07-30'
 description: 'Tahoe Rim Trail day 4: Flower fields, smoky vistas, and chilling at Spooner Lake'
 image: './day-4.jpg'

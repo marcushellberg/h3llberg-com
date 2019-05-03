@@ -9,7 +9,7 @@
 .articleInfo {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  /* align-items: center; */
   padding: 12px;
 }
 .articleInfo h3 {

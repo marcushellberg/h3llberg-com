@@ -1,5 +1,5 @@
 ---
-title: Tahoe City to Watson Lake
+title: 'TRT: Tahoe City to Watson Lake'
 date: '2018-07-26'
 image: './trt-blaze.jpg'
 category: Tahoe Rim Trail 2018

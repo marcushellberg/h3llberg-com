@@ -1,5 +1,5 @@
 ---
-title: South Camp Peak to Kingsbury South Trailhead
+title: 'TRT: South Camp Peak to Kingsbury South Trailhead'
 date: '2018-07-31'
 description: 'Tahoe Rim Trail day 5: July rain and pizza.'
 image: './heavenly-ski-lift-trt.jpg'

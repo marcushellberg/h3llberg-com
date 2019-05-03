@@ -3,7 +3,7 @@ import Img from 'gatsby-image'
 import styles from './card.module.css'
 import { Link } from 'gatsby'
 
-const Card = ({ title, link, image, subtitle }) => {
+const Card = ({ title, link, image, description }) => {
   return (
     <div className={styles.card}>
       <Link to={link} alt={title}>
@@ -16,7 +16,7 @@ const Card = ({ title, link, image, subtitle }) => {
           </Link>
         </h3>
 
-        <small>{subtitle}</small>
+        <small>{description}</small>
       </div>
     </div>
   )

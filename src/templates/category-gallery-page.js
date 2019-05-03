@@ -23,6 +23,7 @@ const GalleryPage = ({ pageContext, data }) => {
             <Card
               key={sub.name}
               title={sub.name}
+              description={sub.description}
               image={sub.image.childImageSharp.fluid}
               link={pageContext.slug + kebabCase(sub.name)}
             />
@@ -52,6 +53,7 @@ export const pageQuery = graphql`
         node {
           subCategories {
             name
+            description
             image {
               childImageSharp {
                 fluid(maxWidth: 300) {
