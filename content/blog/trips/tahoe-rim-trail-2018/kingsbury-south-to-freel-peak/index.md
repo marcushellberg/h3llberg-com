@@ -21,12 +21,12 @@ I got Superfeet Carbon insoles for my shoes. Walking on the loose sand on the Ea
 
 Finally, I swapped out my Gerber pocket knife for a small Victorinox that weighed about the same but had scissors. Scissors make things like cutting Leukotape so much easier.
 
+## Back on the trail
+
 <figure>
   <img src="kingsbury-trailhead.jpg" alt="Ready to get back on the trail again!">
   <figcaption>Ready to get back on the trail again!</figcaption>
 </figure>
-
-## Back on the trail
 
 Right out of the gate, the trail started with a steady climb. In fact, the whole day was going to be more or less a non-stop climb.
 
