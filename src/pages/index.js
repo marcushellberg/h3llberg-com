@@ -18,6 +18,16 @@ class BlogIndex extends React.Component {
           keywords={[`hiking`, `backpacking`, `ultralight`, `adventure`]}
         />
 
+        <h2
+          style={{
+            textTransform: `uppercase`,
+            fontFamily: `Montserrat, sans-serif`,
+            paddingBottom: `6px`,
+            borderBottom: `1px solid #666`,
+          }}
+        >
+          Latest posts
+        </h2>
         {posts.map(({ node }) => (
           <PostPreview
             key={node.fields.slug}
@@ -43,6 +53,7 @@ export const pageQuery = graphql`
     allMarkdownRemark(
       sort: { fields: [frontmatter___date], order: DESC }
       filter: { frontmatter: { category: { ne: "Page" } } }
+      limit: 5
     ) {
       edges {
         node {
