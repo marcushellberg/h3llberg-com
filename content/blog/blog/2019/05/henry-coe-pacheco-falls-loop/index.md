@@ -13,6 +13,8 @@ Most places in the Sierras are still snowed in, so Henry Coe was the logical des
 
 <iframe width="100%" height="500px" src="https://caltopo.com/m/V59T"></iframe>
 
+**[My gear list for the trip](https://www.trailpost.com/packs/2337)**
+
 ## Day 1
 
 I arrived at the Hunting Hollow parking lot around 9am on Friday. There were only four or five other cars on the big lot. I filled in the self-registration and headed off.
