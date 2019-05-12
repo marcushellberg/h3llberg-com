@@ -7,15 +7,15 @@ category: Blog
 tags: ['Trip reports', 'Hiking']
 ---
 
-I decided to go on a last-minute overnight trip as I was going to be traveling for the next few weekends and wanted to get some trail miles and test gear ahead of the JMT.
+I wanted to go on a last-minute overnight trip as I will be traveling the next few weekends and wanted to get some trail miles and test gear ahead of the JMT.
 
-As most places in the Sierras are still snowed in, Henry Coe was the logical destination. Less than an hour from the South Bay Area, it's a great place to get out in nature without having to drive too far. I found a loop on [AllTrails](https://www.alltrails.com/explore/trail/us/california/pacheco-falls-loop-via-coyote-creek-hunting-hollow) that was about the length I wanted to do and was in a part of the park I hadn't explored before.
+As most places in the Sierras are still snowed in, Henry Coe was the logical destination. Less than an hour from the South Bay Area, it's a great place to get out in nature without having to drive too far. I found a loop on [AllTrails](https://www.alltrails.com/explore/trail/us/california/pacheco-falls-loop-via-coyote-creek-hunting-hollow) that was about the length I wanted to do and that was in a part of the park I hadn't explored before.
 
 <iframe width="100%" height="500px" src="https://caltopo.com/m/V59T"></iframe>
 
 ## Day 1
 
-I arrived at the Hunting Hollow parking lot around 9am on a Friday. There were only four or five other cars on the big lot. I filled in the self-registration and headed off.
+I arrived at the Hunting Hollow parking lot around 9am on Friday. There were only four or five other cars on the big lot. I filled in the self-registration and headed off.
 
 The trail starts with a two-mile road walk along Coyote Creek. The sides of the road were full of wildflowers, and the creek was going strong. I only saw two cars on the road walk, so it wasn't bad at all.
 
@@ -26,16 +26,16 @@ At the end of the road, I entered Henry Coe park at the Coyote Creek entrance an
   <figcaption>Coit Road in Henry Coe State Park.</figcaption>
 </figure>
 
-I walked a half mile past the junction to Anza Trail as I was too busy checking out the wildflowers. Finally, I noticed that I was way closer to the creek than I should have been and backtracked.
+I accidentally walked a half mile past the junction to Anza Trail as I was too busy checking out the wildflowers. Finally, I noticed that I was way closer to the creek than I should have been and backtracked.
 
 <figure>
   <img src="wildflowers-on-coit-road.jpg" alt="Wildflowers along Coit Road.">
   <figcaption>Wildflowers along Coit Road.</figcaption>
 </figure>
 
-Anza trail was a single track trail that went through tall grass. I had to put on my pants on top of my shorts as Henry Coed is notorious for its ticks. I had treated both my pants and shirt with Permethrin the day before to avoid most of them hopefully.
+Anza trail was a single track trail that went through tall grass. Henry Coe is notorious for its ticks, so I put on a pair of pants on top of my shorts before continuing. I had treated both my pants and shirt with Permethrin the day before to guard against the ticks.
 
-Anza trail is one of the few trails in the park that has switchbacks, so the climb was easy. Soon enough, the views began to open up. The morning mist that made the first part of the hike nice and cool had also burned off, which made for some sweaty hiking in pants and a long sleeve shirt.
+Anza trail is one of the few trails in the park that has switchbacks, so the climb was easy. Soon enough, the views began to open up. The morning mist that made the first part of the hike nice and cool had also burned off by then, which made for some sweaty hiking in pants and a long sleeve shirt.
 
 But the views were worth it. Coming up to Jackson trail, I could see all the way to Lick Observatory.
 
@@ -58,22 +58,22 @@ It was still early when I got to Kelly Lake, so I decided to take an extended co
   <figcaption>Kelly Lake.</figcaption>
 </figure>
 
-My next destination was Pacheco Falls. I didn't have a plan for where to camp yet. I had checked my map at Kelly lake and marked two potential spots: one near the pond above the falls, and the Pacheco Camp.
+My next destination was Pacheco Falls. I didn't have a plan for where to camp yet. I had checked my map at Kelly lake and marked two potential spots: a spot near the pond above the falls and the Pacheco Camp.
 
-As I passed Coit Lake, I saw that pigs had been digging up a lot of the soil around the small streams leading into the lake. Pigs are a big problem in the park as I would notice a bit later. The Rangers had set out traps, hoping to lure them in with a tasty pile of corn.
+As I passed Coit Lake, I saw that wild pigs had been digging up a lot of the soil around the small streams leading into the lake. Wild pigs are a big problem in the park as I would realize a bit later. The Rangers had set out traps, hoping to lure them in with a tasty pile of corn.
 
 <figure>
   <img src="pig-trap-henry-coe.jpg" alt="Pig trap.">
   <figcaption>Pig trap.</figcaption>
 </figure>
 
-I saw the first snake of the trip on the road from Coit to Pacheco. I'm no snake expert, but it looked like a baby gopher snake.
+I saw the first snake of the trip on the road from Coit to Pacheco. It was tiny, probably less than a foot long.
 
 <figure class="full-width">
   <img src="snake.jpg" alt="Snake.">
 </figure>
 
-The trail down to Pacheco Falls from Live Oaks Spring Road was a pretty steep 1,000ft descent. Walking down, I was fantasizing about taking a dip in the pool under the falls to cool off and wash off the sweat and trail dust I'd collected during the day.
+The trail down to Pacheco Falls from Live Oaks Spring Road was a steep 1,000ft descent. Walking down, I was fantasizing about taking a dip in the pool under the falls to cool off and wash off the sweat and trail dust I'd collected during the day.
 
 When I finally got down to the falls, I was greeted by a beautiful, turquoise pool surrounded by green trees and bushes. I could see fish casually swimming around in the calm water, cursing myself for not bringing my Tenkara rod.
 
@@ -86,7 +86,7 @@ When I finally got down to the falls, I was greeted by a beautiful, turquoise po
 
 To my big disappointment, it turned out that most of the bushes around the pool were poison oak, and I couldn't find any way to get into the water without getting poison oak all over myself.
 
-Begrudgingly, I started the 1,000-foot climb back up. The camping spot that had looked promising on the map didn't yield any decent places, so I backtracked a mile and then continued to Pacheco Camp.
+Begrudgingly, I started the 1,000-foot climb back up. The spot that had looked promising on the map didn't yield any decent campsites, so I backtracked a mile and then continued to Pacheco Camp.
 
 <figure>
   <img src="rock-near-pacheco-camp.jpg" alt="Big rock near Pacheco Camp.">
@@ -107,7 +107,7 @@ When I got to the camp, I realized that camp didn't mean camping area. It was a 
 
 I had come out to enjoy nature, and spending the night in the backyard of a creepy old camp wasn't really what I wanted to do. The campsite was also down in a dark valley that would get very damp and buggy once the sun went down.
 
-I still had plenty of daylight, so I had a cup of coffee and made a new plan. I checked my map once again and saw that there were several potential looking campsites along the Wagon Road. I decided to load up on enough water to dry camp and headed out once again.
+I still had plenty of daylight, so I had a cup of coffee and made a new plan. I checked my map once again and saw that there were several potential looking campsites along the Wagon Road. I loeaded up on enough water to dry camp and headed out once again.
 
 <figure>
   <img src="pacheco-camp-spring.jpg" alt="The spring at Pacheco Camp.">
@@ -121,7 +121,7 @@ Finding a campsite turned out to be more difficult than I had anticipated. I had
   <figcaption>Views from Live Oak Spring Road.</figcaption>
 </figure>
 
-Turns out that the pigs in the park have been busy digging up the ground under pretty much every single oak tree in the park at some point in time. Finally, I found a beautiful place tucked in near a pine for wind protection. It wasn't a full five-star site, but with the views factored in, I'll give it four stars.
+Turns out that the pigs in the park have been busy digging up the ground under pretty much every single oak tree in the park at some point in time. The ground under oak trees was very bumpy even in spots that looked good from farther away. At last, I found a beautiful place tucked in near a pine for wind protection. It wasn't a full five-star site, but with the views factored in, I'll give it four stars.
 
 <figure>
   <img src="wagon-road-campsite.jpg" alt="Tent tucked in by a pine with expansive views.">
@@ -141,25 +141,25 @@ I woke up a bit before six as the sun climbed up over the horizon. My tent is ve
   <figcaption>Sunrise inside the tent.</figcaption>
 </figure>
 
-I was greeted by a warm golden glow when I opened the tent door. The tall yellow grass was as if it was on fire. The valleys had collected blankets of mist over the night.
+I was greeted by a warm golden glow when I opened the tent door. The tall yellow grass almost looked as if it was on fire. The valleys had been blanketed by mist over the night.
 
 <figure>
   <img src="sunrise-from-campsite.jpg" alt="Sunrise at the campsite overlooking a misty valley.">
   <figcaption>Sunrise at the campsite overlooking a misty valley.</figcaption>
 </figure>
 
-I didn't have enough water to make breakfast at camp, so I planned to quickly pack up and have breakfast at the first water source instead. I ended up walking all the way to Tule Pond before stopping for breakfast because I missed the trail junction to Wasno Pond and wasn't hungry enough to backtrack.
+I didn't have enough water to make breakfast at camp, so the plan was to quickly pack up and have breakfast at the first water source instead. I ended up walking all the way to Tule Pond before stopping because I missed the trail junction to Wasno Pond and wasn't hungry enough to backtrack.
 
 I gathered water at the stream before Tule pond and then continued for a few hundred yards to find a place where I could sit in the morning sun and look at the pond.
 
-I was in no hurry, so I probably spent 45 minutes drinking my morning coffee and looking at turtles swimming around in the pond. Just as I was getting ready to leave I met the first person in over 20h. It's incredible how much solitude you can find so close to a 10 million person metropolitan area.
+I was in no hurry, so I probably spent close to an hour drinking my morning coffee and looking at turtles swimming around in the pond. Just as I was getting ready to leave I met the first other hiker in over 20 hours. It's incredible how much solitude you can find so close to a 7 million person metropolitan area.
 
 <figure>
   <img src="tick-alley.jpg" alt="Tick Alley.">
   <figcaption>Tick Alley.</figcaption>
 </figure>
 
-After the breakfast, I had one last climb to do before the steep descent back down to Hunting Hollow. Much of the trail went through thigh-high grass. It seems like the Permethrin worked. I only saw two ticks on me on the entire trip.
+After the breakfast, I had one last climb to do before starting the steep descent back down to Hunting Hollow. Much of the trail went through thigh-high grass. The Permethrin worked. I only saw two ticks on me on the entire trip.
 
 > Switchbacks are for losers.\
 > – Henry Coe trail designer, probably
@@ -171,7 +171,7 @@ The standing joke about Henry Coe is that you don't go there to train for the Si
   <figcaption>Views from Middle Steer Ridge Trail.</figcaption>
 </figure>
 
-Thankfully, I was going down Middle Steer Ridge Trail. It was a steady steep downhill with some even steeper drops. It would have been a pain without hiking poles to take some load off the knees.
+Thankfully, I was going down Middle Steer Ridge Trail. It was a steady steep downhill with some even steeper drops inbetween. It would have been a pain without hiking poles to take some load off the knees.
 
 <figure>
   <img src="dropoff.jpg" alt="Where'd the trail go?">
