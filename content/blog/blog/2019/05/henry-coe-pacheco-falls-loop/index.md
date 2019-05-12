@@ -7,9 +7,9 @@ category: Blog
 tags: ['Trip reports', 'Hiking']
 ---
 
-I wanted to go on a last-minute overnight trip as I will be traveling the next few weekends and wanted to get some trail miles and test gear ahead of the JMT.
+I wanted to go on a last-minute overnight trip beause I'm traveling the next couple weekends and wanted to get some trail miles and test gear ahead of the JMT.
 
-As most places in the Sierras are still snowed in, Henry Coe was the logical destination. Less than an hour from the South Bay Area, it's a great place to get out in nature without having to drive too far. I found a loop on [AllTrails](https://www.alltrails.com/explore/trail/us/california/pacheco-falls-loop-via-coyote-creek-hunting-hollow) that was about the length I wanted to do and that was in a part of the park I hadn't explored before.
+Most places in the Sierras are still snowed in, so Henry Coe was the logical destination. Less than an hour from the South Bay Area, it's a great place to get out in nature without having to drive too far. I found a loop on [AllTrails](https://www.alltrails.com/explore/trail/us/california/pacheco-falls-loop-via-coyote-creek-hunting-hollow) that was about the length I wanted to do and that was in a part of the park I hadn't explored before.
 
 <iframe width="100%" height="500px" src="https://caltopo.com/m/V59T"></iframe>
 
@@ -17,7 +17,7 @@ As most places in the Sierras are still snowed in, Henry Coe was the logical des
 
 I arrived at the Hunting Hollow parking lot around 9am on Friday. There were only four or five other cars on the big lot. I filled in the self-registration and headed off.
 
-The trail starts with a two-mile road walk along Coyote Creek. The sides of the road were full of wildflowers, and the creek was going strong. I only saw two cars on the road walk, so it wasn't bad at all.
+The trail starts with a two-mile road walk along Coyote Creek. The sides of the road were full of wildflowers, and the creek was still going strong. The road was very lightly trafficed, I only saw two cars on the entire stretch.
 
 At the end of the road, I entered Henry Coe park at the Coyote Creek entrance and continued along a dirt road for another few miles.
 
@@ -84,7 +84,7 @@ When I finally got down to the falls, I was greeted by a beautiful, turquoise po
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lIBQz9V93mc?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-To my big disappointment, it turned out that most of the bushes around the pool were poison oak, and I couldn't find any way to get into the water without getting poison oak all over myself.
+To my big disappointment, it turned out that most of the bushes around the pool were poison oak, and I couldn't find any way to get into the water without going through poison oak.
 
 Begrudgingly, I started the 1,000-foot climb back up. The spot that had looked promising on the map didn't yield any decent campsites, so I backtracked a mile and then continued to Pacheco Camp.
 
@@ -93,7 +93,7 @@ Begrudgingly, I started the 1,000-foot climb back up. The spot that had looked p
   <figcaption>Big rock near Pacheco Camp.</figcaption>
 </figure>
 
-When I got to the camp, I realized that camp didn't mean camping area. It was a dilapidated old hunting camp with a handful of old buildings that looked like they'll fall over any minute.
+When I got to the camp, I realized that camp didn't mean campsite. It was a dilapidated old hunting camp with a handful of old buildings that looked like they'll fall over any minute.
 
 <figure>
   <img src="pacheco-camp.jpg" alt="Pacheco Camp.">
@@ -105,9 +105,9 @@ When I got to the camp, I realized that camp didn't mean camping area. It was a 
   <figcaption>Shower? Murder hut?</figcaption>
 </figure>
 
-I had come out to enjoy nature, and spending the night in the backyard of a creepy old camp wasn't really what I wanted to do. The campsite was also down in a dark valley that would get very damp and buggy once the sun went down.
+I had come out to enjoy nature so spending the night in the backyard of a creepy old camp wasn't really what I wanted to do. The campsite was also down in a dark valley that would get very damp and buggy once the sun went down.
 
-I still had plenty of daylight, so I had a cup of coffee and made a new plan. I checked my map once again and saw that there were several potential looking campsites along the Wagon Road. I loeaded up on enough water to dry camp and headed out once again.
+I still had plenty of daylight, so I had a cup of coffee and made a new plan. I checked my map once again and saw that there were several potential campsites along the Wagon Road. I loeaded up on enough water to dry camp and headed out once again.
 
 <figure>
   <img src="pacheco-camp-spring.jpg" alt="The spring at Pacheco Camp.">
@@ -121,20 +121,20 @@ Finding a campsite turned out to be more difficult than I had anticipated. I had
   <figcaption>Views from Live Oak Spring Road.</figcaption>
 </figure>
 
-Turns out that the pigs in the park have been busy digging up the ground under pretty much every single oak tree in the park at some point in time. The ground under oak trees was very bumpy even in spots that looked good from farther away. At last, I found a beautiful place tucked in near a pine for wind protection. It wasn't a full five-star site, but with the views factored in, I'll give it four stars.
+Turns out that the pigs have been busy digging up the ground under pretty much every single oak tree in the park at some point in time. The ground under oak trees was very bumpy even in spots that looked good from farther away. Finally, I found a beautiful place tucked in near a pine for wind protection. It wasn't a full five-star site, but with the views factored in, I'll give it four stars.
 
 <figure>
   <img src="wagon-road-campsite.jpg" alt="Tent tucked in by a pine with expansive views.">
   <figcaption>Tent tucked in by a pine with expansive views.</figcaption>
 </figure>
 
-There was a rock outcrop near the campsite where I could sit and cook dinner while I watched the sunset. After dinner, I retreated into my tent and under my quilt to read for a while. I could hear the wind blowing through the pine needles, but my tent was well protected and didn't flap around.
+There was a rock outcrop near the campsite where I could sit and cook dinner while I watched the sunset. After dinner, I retreated into my tent and under my quilt to read for a while. I could hear the wind blowing through the pine needles, but my tent was well protected.
 
 **Day 1 stats: 20 miles, 4,200 ft ascent**
 
 ## Day 2
 
-I woke up a bit before six as the sun climbed up over the horizon. My tent is very translucent, which makes for magnificent sunrises.
+I woke up a bit before six as the sun climbed up over the horizon. My tent is translucent, which makes for some magnificent sunrises.
 
 <figure>
   <img src="sunrise-in-tent.jpg" alt="Sunrise inside the tent.">
@@ -152,14 +152,14 @@ I didn't have enough water to make breakfast at camp, so the plan was to quickly
 
 I gathered water at the stream before Tule pond and then continued for a few hundred yards to find a place where I could sit in the morning sun and look at the pond.
 
-I was in no hurry, so I probably spent close to an hour drinking my morning coffee and looking at turtles swimming around in the pond. Just as I was getting ready to leave I met the first other hiker in over 20 hours. It's incredible how much solitude you can find so close to a 7 million person metropolitan area.
+I was in no hurry, so I probably spent close to an hour drinking my morning coffee and looking at turtles swimming around in the pond. Just as I was getting ready to leave, I met the first other hiker in over 20 hours. It's incredible how much solitude you can find so close to a 7 million person metropolitan area.
 
 <figure>
   <img src="tick-alley.jpg" alt="Tick Alley.">
   <figcaption>Tick Alley.</figcaption>
 </figure>
 
-After the breakfast, I had one last climb to do before starting the steep descent back down to Hunting Hollow. Much of the trail went through thigh-high grass. The Permethrin worked. I only saw two ticks on me on the entire trip.
+After the breakfast, I had one last climb to do before starting the steep descent back down to Hunting Hollow. Much of the trail went through thigh-high grass on the second day. But the Permethrin worked. I only saw two ticks on me on the entire trip and was able to easily brush off both.
 
 > Switchbacks are for losers.\
 > – Henry Coe trail designer, probably
@@ -178,9 +178,9 @@ Thankfully, I was going down Middle Steer Ridge Trail. It was a steady steep dow
   <figcaption>Where'd the trail go?</figcaption>
 </figure>
 
-Once I got down to the bottom, I had less than a mile along a dirt road to get back to my car. The road crossed a creek several times, but the water was low enough already that skipping rocks was easy and I didn't need to get my shoes wet on the home stretch.
+Once I got down to the bottom, I had less than a mile along a dirt road to get back to my car. The road crossed a creek several times, but the water was low enough already that skipping rocks was easy and I made it back to the car with dry shoes.
 
-It was only 9:30 in the morning when I got back to the car, which left me with a full day for other stuff at home. All in all, this was a good trip.
+I got back to the car at 9:30AM, which left me with a full day for other stuff at home. All in all, this was a good trip.
 
 **Day 2 stats: 6.9 miles, 1,000 ft ascent.**
 
