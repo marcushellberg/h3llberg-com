@@ -40,6 +40,7 @@ exports.createPages = async ({ graphql, actions }) => {
               title
               category
               tags
+              date
             }
           }
         }
