@@ -81,8 +81,8 @@ exports.createPages = async ({ graphql, actions }) => {
 
   postsByCategory.forEach((posts, category) => {
     if (category.order && category.order === 'ASC') {
-      posts.sort(
-        (p1, p2) => p1.node.frontmatter.date > p2.node.frontmatter.date
+      posts.sort((p1, p2) =>
+        p1.node.frontmatter.date > p2.node.frontmatter.date ? -1 : 1
       )
     }
     createPages(posts)
