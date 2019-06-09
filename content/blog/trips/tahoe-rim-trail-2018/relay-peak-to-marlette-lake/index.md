@@ -47,7 +47,7 @@ Thankfully, I had the [Guthook](https://atlasguides.com/guthook-guides/) app ins
 
 One of my favorite things in the forest was the bright green lichen that grew on trees in the darker parts of the woods.
 
-<figure>
+<figure class="full-width">
   <img src="lichen.jpg" alt="Bright green lichen on a tree.">
   <figcaption>Bright-green lichen on a tree</figcaption>
 </figure>
