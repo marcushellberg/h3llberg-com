@@ -25,6 +25,10 @@ I had a Zpacks bear bag with a line for my food storage. This turned out to be a
 
 The days were hot, so I was happy that I didn't pack a hot lunch. In fact, I think I could have skipped having a proper lunch all together and just increased the number of snacks.
 
+## Navigation
+
+The [Guthook](https://atlasguides.com/guthook-guides/) app was super helpful. Knowing when the next water source will be allowed me to carry a lighter pack. Comments from other hikers provided up to date information on seasonal water sources. Highly recommended.
+
 ## Communication
 
 Although cell phone service was spotty, there were spots with reception every day. I carried an InReach device but could have done without one for communication. But I still like having it for emergencies.
