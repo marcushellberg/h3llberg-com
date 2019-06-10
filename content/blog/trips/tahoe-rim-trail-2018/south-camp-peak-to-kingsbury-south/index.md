@@ -4,7 +4,7 @@ date: '2018-07-31'
 description: 'Tahoe Rim Trail day 5: July rain and pizza.'
 image: './heavenly-ski-lift-trt.jpg'
 category: Tahoe Rim Trail 2018
-tags: ['Trip reports', 'Hiking']
+tags: ['Trip reports', 'Hiking', 'Nevada']
 ---
 
 Day 5. I woke up a few times during the night to rain showers pattering on the tent. This was my last day on trail before I needed to get back to work for two weeks. I ate breakfast in the tent, out of the rain. I then packed up and hit the trail before six.

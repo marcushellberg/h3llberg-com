@@ -4,7 +4,7 @@ date: '2018-07-28'
 description: 'Tahoe Rim Trail day 2: A long and hot climb combined with the longest dry stretch on the trail'
 image: './sunset-at-relay-peak-trt.jpg'
 category: Tahoe Rim Trail 2018
-tags: ['Trip reports', 'Hiking']
+tags: ['Trip reports', 'Hiking', 'California', 'Nevada']
 ---
 
 Day 2. I slept poorly like I usually do when up at altitude for the first night. I woke up at 5:45 and had a quick breakfast while watching the first golden rays of the sun illuminate the forest.

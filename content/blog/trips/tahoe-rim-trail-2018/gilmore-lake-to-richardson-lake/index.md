@@ -4,7 +4,7 @@ date: '2018-08-21'
 description: 'Tahoe Rim Trail day 10: Beautiful lakes everywhere'
 image: './fontanillis-lake.jpg'
 category: Tahoe Rim Trail 2018
-tags: ['Trip reports', 'Hiking']
+tags: ['Trip reports', 'Hiking', 'California']
 ---
 
 Day 10. Our day started with a 3-mile climb up Dicks Pass. The climbing felt much lighter than it had the night before. We were well rested, and the fresh morning air made the ascent a breeze.

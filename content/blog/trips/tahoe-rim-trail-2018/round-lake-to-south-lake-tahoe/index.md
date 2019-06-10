@@ -4,7 +4,7 @@ date: '2018-08-19'
 description: 'Tahoe Rim Trail day 8: Joining the PCT and resupply in South Lake Tahoe.'
 image: './pct-meadow.jpg'
 category: Tahoe Rim Trail 2018
-tags: ['Trip reports', 'Hiking']
+tags: ['Trip reports', 'Hiking', 'California']
 ---
 
 Day 8. We had a good night's sleep. Because we were camped up on the ledge on the Western side of the lake, the morning sun quickly started warming us.

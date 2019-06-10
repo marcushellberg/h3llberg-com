@@ -4,7 +4,7 @@ date: '2018-08-22'
 description: 'Tahoe Rim Trail day 11: The end of a great adventure'
 image: './richardson-lake-sunrise.jpg'
 category: Tahoe Rim Trail 2018
-tags: ['Trip reports', 'Hiking']
+tags: ['Trip reports', 'Hiking', 'California']
 ---
 
 Day 11. I woke up a few times during the night because I was cold and had to put on some more clothes. As my alarm rang at 5AM, I got out of the tent and noticed that the ground around us was covered in frost. We had selected our campsite for its views and were paying for that choice with a damp, cold night. Had we slept just 10-20 vertical feet higher, we would have been sleeping dry.

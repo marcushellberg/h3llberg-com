@@ -4,7 +4,7 @@ date: '2018-07-29'
 description: 'Tahoe Rim Trail day 3: Smoky weather, easy trail.'
 image: './lichen.jpg'
 category: Tahoe Rim Trail 2018
-tags: ['Trip reports', 'Hiking']
+tags: ['Trip reports', 'Hiking', 'Nevada']
 ---
 
 Day 3. I woke up to a draft in my tent. I had left the downwind storm doors of my Duplex open for ventilation. The wind had turned around over the night, and they were now instead funneling in the air into my tent.

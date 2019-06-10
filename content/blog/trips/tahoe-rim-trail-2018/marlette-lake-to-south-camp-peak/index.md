@@ -4,7 +4,7 @@ date: '2018-07-30'
 description: 'Tahoe Rim Trail day 4: Flower fields, smoky vistas, and chilling at Spooner Lake'
 image: './day-4.jpg'
 category: Tahoe Rim Trail 2018
-tags: ['Trip reports', 'Hiking']
+tags: ['Trip reports', 'Hiking', 'Nevada']
 ---
 
 Day 4. Today was going to be a shorter day as I had two days to get to my car at Kingsbury South trailhead. I was in the middle of the longest dry stretch on the Tahoe Rim Trail, so I filled up on water at the Marlette pump before heading out. My first refill would be at Spooner Lake.

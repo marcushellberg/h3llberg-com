@@ -4,7 +4,7 @@ date: '2018-08-18'
 description: 'Tahoe Rim Trail day 7: Great views and dry stretches.'
 image: './tent-at-round-lake-trt.jpg'
 category: Tahoe Rim Trail 2018
-tags: ['Trip reports', 'Hiking']
+tags: ['Trip reports', 'Hiking', 'California']
 ---
 
 Day 7. Although our campsite had great views, it was a bit exposed. The wind was flapping my tent around early in the night before finally calming down and letting me sleep. We enjoyed our breakfasts as the sunrise started to color Lake Tahoe.

@@ -19,7 +19,7 @@ const PostPreview = ({ post, image }) => {
       </div>
       <Img fluid={image} className={styles.image} />
       <p className={styles.excerpt}>
-        {post.excerpt} <strong>continue reading ›</strong>
+        {post.excerpt} <strong>continue reading&nbsp;›</strong>
       </p>
     </Link>
   )

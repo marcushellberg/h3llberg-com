@@ -4,7 +4,7 @@ date: '2018-08-20'
 description: 'Tahoe Rim Trail day 9: Desolation Wilderness – Rocky trail, beautiful views'
 image: './tamarack-lake.jpg'
 category: Tahoe Rim Trail 2018
-tags: ['Trip reports', 'Hiking']
+tags: ['Trip reports', 'Hiking', 'California']
 ---
 
 Day 9. After a great night's sleep in a hotel bed, we made ourselves a big breakfast with eggs, bacon, and toast with a side of leftover pizza from the night before.

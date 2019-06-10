@@ -4,7 +4,7 @@ date: '2018-07-26'
 image: './trt-blaze.jpg'
 category: Tahoe Rim Trail 2018
 description: 'Tahoe Rim Trail day 1: Getting to the trailhead was a pain, but once I got on the trail I quickly forgot all the hassle.'
-tags: ['Trip reports', 'Hiking']
+tags: ['Trip reports', 'Hiking', 'California']
 ---
 
 Day 1. 4am wakeup. I had a long trip ahead of me, and I wanted to get on the trail early enough to get to Watson lake before dark.

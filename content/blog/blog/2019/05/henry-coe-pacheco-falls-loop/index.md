@@ -4,7 +4,7 @@ date: '2019-05-11'
 description: 'A 27-mile overnight trip to Pacheco Falls in Henry Coe State Park in California.'
 image: './sunrise-view-from-tent-door.jpg'
 category: Blog
-tags: ['Trip reports', 'Hiking']
+tags: ['Trip reports', 'Hiking', 'California']
 ---
 
 I wanted to go on a last-minute overnight trip beause I'm traveling the next couple weekends and wanted to get some trail miles and test gear ahead of the JMT.

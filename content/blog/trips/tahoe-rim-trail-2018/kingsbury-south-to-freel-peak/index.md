@@ -4,7 +4,7 @@ date: '2018-08-17'
 description: 'Tahoe Rim Trail day 6: On the trail again!'
 image: './green-valley.jpg'
 category: Tahoe Rim Trail 2018
-tags: ['Trip reports', 'Hiking']
+tags: ['Trip reports', 'Hiking', 'California', 'Nevada']
 ---
 
 Day 6. After a two week break from the trail due to work, it was time to continue the TRT. My cousin flew in from Finland to join me on the second part of the trail. It was his first time to California, and I was sure he'd love the nature.
