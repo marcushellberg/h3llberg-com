@@ -33,7 +33,8 @@ I wanted to experiment with a few things ahead of my long hike:
 
 This was going to be a comparatively short hike, but I wanted to keep the weight in line with what I will be carrying on the JMT. This meant I could bring things like a foldable saw for processing firewood.
 
-![lighterpack.png](16.5lbs base weight)
+![16.5lbs base weight](lighterpack.png)
+
 You can view the [full gear list here](https://lighterpack.com/r/49l4l3)
 
 ## Day 1 - Stuart Fork Trailhead to Morris Meadows
