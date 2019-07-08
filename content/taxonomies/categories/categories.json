@@ -10,6 +10,12 @@
         "description": "In July - August 2018, I hiked the The Tahoe Rim Trail (TRT). It is a 165 mile trail around Lake Tahoe in California and Nevada. It was my first through-hike.",
         "image": "tahoe-rim-trail.jpg",
         "order": "ASC"
+      },
+      {
+        "name": "John Muir Trail 2019",
+        "description": "The legendary JMT stretches 210 miles from Yosemite Valley to the top of Mt. Whitney, covering incredible high alpine views. I'm planning to hike the trail in early August 2019.",
+        "image": "john-muir-trail.jpg",
+        "order": "ASC"
       }
     ]
   },
