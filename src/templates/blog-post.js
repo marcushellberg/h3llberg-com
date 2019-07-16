@@ -130,8 +130,9 @@ class BlogPostTemplate extends React.Component {
         ) : (
           ''
         )}
-        <Bio />
         <TagList tags={tags} />
+        <Bio />
+
         <div ref={this.ref} id="comments" />
         {category !== 'Page' ? (
           <>

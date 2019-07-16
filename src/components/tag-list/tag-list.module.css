@@ -23,6 +23,7 @@
 .wrapper {
   display: flex;
   align-items: baseline;
+  margin-top: 4em;
 }
 
 .heading {
