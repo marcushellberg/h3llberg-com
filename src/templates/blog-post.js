@@ -10,39 +10,6 @@ import { TagList } from '../components/tag-list/tag-list'
 import { kebabCase } from '../utils/string-utils'
 
 class BlogPostTemplate extends React.Component {
-  constructor(...args) {
-    super(...args)
-    this.ref = React.createRef()
-  }
-
-  componentDidMount() {
-    const loadCommento = () => {
-      const commentoScript = document.createElement('script')
-      commentoScript.src = 'https://cdn.commento.io/js/commento.js'
-      commentoScript.setAttribute('async', true)
-      this.ref.current.appendChild(commentoScript)
-    }
-
-    if ('IntersectionObserver' in window) {
-      const observer = new IntersectionObserver(
-        entries => {
-          entries.forEach(entry => {
-            if (entry.isIntersecting) {
-              loadCommento()
-              observer.disconnect()
-            }
-          })
-        },
-        {
-          rootMargin: '0px 0px 300px 0px',
-        }
-      )
-      observer.observe(document.querySelector('#comments'))
-    } else {
-      setTimeout(loadCommento, 1000)
-    }
-  }
-
   render() {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
@@ -132,16 +99,6 @@ class BlogPostTemplate extends React.Component {
         )}
         <TagList tags={tags} />
         <Bio />
-
-        <div ref={this.ref} id="comments" />
-        {category !== 'Page' ? (
-          <>
-            <h4>Comments</h4>
-            <div id="commento" />
-          </>
-        ) : (
-          ''
-        )}
       </Layout>
     )
   }
