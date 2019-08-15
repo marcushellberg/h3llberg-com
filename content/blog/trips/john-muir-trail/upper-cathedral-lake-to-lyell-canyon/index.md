@@ -31,7 +31,7 @@ I had a resupply to pick up at Tuolumne Meadows. I wanted to get lunch there too
 I took a short detour to Soda Springs, a naturally carbonated spring. The water was clear, although the ground around it was colored red-brown from all the iron in the water. The water tasted very metallic and was slightly carbonated. I decided to stick with normal water for drinking.
 
 <figure>
- <img src="soda-spring.jpg" alt="Carbonated water bubbling from Soda Spring.">
+ <img src="soda-springs.jpg" alt="Carbonated water bubbling from Soda Spring.">
  <figcaption>Carbonated water bubbling from Soda Spring.</figcaption>
 </figure>
 
