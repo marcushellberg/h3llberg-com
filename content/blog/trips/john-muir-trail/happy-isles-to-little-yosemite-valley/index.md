@@ -32,7 +32,7 @@ I hiked a short hike up to Mirror Lake. It sprinkled a little, but not enough to
 
 After checking out Mirror Lake, I headed back into Yosemite Village to get some dinner. I then retreated to the campground. There were now tens of tents set up all over the campsite. I spent some time talking to other hikers before going to bed – excited to get up early the next morning.
 
-## Starting the JMT
+## Day 1 – 13 miles, 5280 ft ascent
 
 I woke up with the sun before 6 AM. Most hikers at the Backpackers' Campground were already packing their stuff.
 

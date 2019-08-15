@@ -7,6 +7,7 @@ category: John Muir Trail
 tags: ['Hiking', 'California']
 ---
 
+**Day 2 – 13.4 miles, 4270 ft ascent.**
 The first night was warm, and I woke up as the sun was rising. I had a short day ahead of me, so I was in no hurry. I ate breakfast and packed up camp, and was on the trail after 7.
 
 I started up the same trail as I had when I went up to Half Dome the day before but then turned East where the Half Dome trail split off.
