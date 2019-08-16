@@ -1,5 +1,5 @@
 ---
-title: 'How to get a JMT permit'
+title: 'How I got my JMT permit'
 date: '2019-07-07'
 description: "Getting a JMT permit can be really difficult. Here's how got mine."
 image: './john-muir-trail.jpg'

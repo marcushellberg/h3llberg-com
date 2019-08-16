@@ -52,7 +52,7 @@ I arrived at Upper Cathedral Lake at 2 pm. There was only one other tent set up 
  <figcaption>The DoubleTree at Upper Cathedral Lake.</figcaption>
 </figure>
 
-After setting up the tent, I took a swim and explored around the lake. It was remarkable how similar the plants and nature was to the Finnish archipelago.
+After setting up the tent, I took a swim and explored around the lake. It was remarkable how similar the plants and nature was to the Finnish archipelago. I did feel like I had too much time at camp and I started to run out of things to do. I had initially planned to do my hike with a friend, but he got injured before the hike. Hiking solo, I decided that it would be more fun to do longer days on the trail and have less time at camp.
 
 I watched the sunset at the lake but retreated to my tent as the mosquitoes came out when the wind died down. I stayed up until it got dark so I could look at the night sky. Seeing the Milky Way with my bare eyes is one of my favorite things to do when up in the Sierra.
 
