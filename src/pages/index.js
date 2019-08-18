@@ -13,11 +13,11 @@ class BlogIndex extends React.Component {
     return (
       <Layout location={this.props.location} pageTitle={siteDescription}>
         <SEO
-          title="Outdoor Adventure – ultralight backpacking, fly fishing, bikepacking"
+          title="Marcus Hellberg – outdoor adventure, ultralight backpacking, fly fishing, bikepacking"
           description={siteDescription}
+          location={this.props.location}
           keywords={[`hiking`, `backpacking`, `ultralight`, `adventure`]}
         />
-
         <h2
           style={{
             textTransform: `uppercase`,

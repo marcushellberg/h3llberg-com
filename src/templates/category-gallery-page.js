@@ -5,7 +5,7 @@ import { kebabCase } from '../utils/string-utils'
 import { Card } from '../components/card/card'
 import { CardGrid } from '../components/card-grid/card-grid'
 import SEO from '../components/seo'
-const GalleryPage = ({ pageContext, data }) => {
+const GalleryPage = ({ pageContext, data, location }) => {
   return (
     <Layout
       pageTitle={pageContext.category.name}
@@ -14,6 +14,7 @@ const GalleryPage = ({ pageContext, data }) => {
       <SEO
         title={pageContext.category.name}
         description={pageContext.category.description}
+        location={location}
         image={data.headerImage.childImageSharp.fixed}
       />
       <p>{pageContext.category.description}</p>

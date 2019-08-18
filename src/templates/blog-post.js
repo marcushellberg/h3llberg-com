@@ -34,6 +34,7 @@ class BlogPostTemplate extends React.Component {
       >
         <SEO
           title={title}
+          location={this.props.location}
           description={description || post.excerpt}
           image={image.childImageSharp.fixed}
         />

@@ -1,12 +1,18 @@
 import React from 'react'
 import Layout from '../components/layout'
 import { PostPreview } from '../components/post-preview/post-preview'
+import SEO from '../components/seo.js'
 import { graphql } from 'gatsby'
 
-const Listing = ({ pageContext, data }) => {
+const Listing = ({ pageContext, data, location }) => {
   const posts = data.allMarkdownRemark.edges
   return (
     <Layout pageTitle={pageContext.tag}>
+      <SEO
+        title={`Posts tagged ${pageContext.tag}`}
+        description={`Blog posts about ${pageContext.tag}`}
+        location={location}
+      />
       {posts.map(({ node }) => (
         <PostPreview
           post={node}

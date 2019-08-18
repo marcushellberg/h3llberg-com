@@ -4,7 +4,7 @@ import SEO from '../components/seo'
 import { PostPreview } from '../components/post-preview/post-preview'
 import { graphql } from 'gatsby'
 
-const Listing = ({ pageContext, data }) => {
+const Listing = ({ pageContext, data, location }) => {
   const posts = data.allMarkdownRemark.edges
   return (
     <Layout
@@ -14,6 +14,7 @@ const Listing = ({ pageContext, data }) => {
       <SEO
         title={pageContext.category.name}
         description={pageContext.category.description}
+        location={location}
         image={data.headerImage.childImageSharp.fixed}
       />
       {pageContext.category.description ? (
