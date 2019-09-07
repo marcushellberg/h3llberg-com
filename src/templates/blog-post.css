@@ -4,6 +4,19 @@
   color: gray;
 }
 
+@media (min-width: 700px) {
+  .post-content .half-width .gatsby-resp-image-wrapper {
+    position: relative;
+    max-width: 50vw;
+    width: 50vw;
+    left: 50%;
+    right: 50%;
+    margin-left: -25vw !important;
+    margin-right: -25vw !important;
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+}
 .post-content .full-width .gatsby-resp-image-wrapper {
   position: relative;
   max-width: 100vw;
